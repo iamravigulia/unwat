@@ -1,4 +1,5 @@
 <div>
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .fmt_box{
             margin: 10px 20px;

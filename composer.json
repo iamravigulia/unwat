@@ -1,0 +1,19 @@
+{
+    "name": "edgewizz/unwat",
+    "description": "testing",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Edgewizz\\Unwat\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Edgewizz\\Unwat\\UnwatServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
